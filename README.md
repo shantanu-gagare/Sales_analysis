@@ -1,2 +1,4 @@
-# Sales_analysis
-Sales Analysis project. Dashboard is built with PowerBi and data set were taken as SQL file. 
+# Sales Insights - Brick & motor business [Power BI | SQL]
+- Designed a Power BI dashboard to understand AtliQ hardware goods sales trend.
+- The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions.
+- This dashboard could help in increasing the revenue at least by 7% in the next quarter.  
